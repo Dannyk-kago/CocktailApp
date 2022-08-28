@@ -1,4 +1,4 @@
-package com.developerdan.cocktailapp.ui.theme
+package com.developerdan.cocktailapp.views.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
