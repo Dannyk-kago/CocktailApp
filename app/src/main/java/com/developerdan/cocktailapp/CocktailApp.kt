@@ -1,4 +1,7 @@
 package com.developerdan.cocktailapp
 
-class CocktailApp {
-}
+import android.app.Application
+import dagger.hilt.android.HiltAndroidApp
+
+@HiltAndroidApp
+class CocktailApp: Application()
