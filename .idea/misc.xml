@@ -5,7 +5,12 @@
       <map>
         <entry key="../../../../layout/compose-model-1662840282255.xml" value="0.22" />
         <entry key="../../../../layout/compose-model-1662842704130.xml" value="0.2736046999580361" />
+        <entry key="app/src/main/res/drawable/ic_bag_shopping_icon.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/ic_glass_icon.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/ic_greater_than_icon.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/ic_heart_icon.xml" value="0.179" />
         <entry key="app/src/main/res/drawable/ic_martini_glass.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/ic_search_icon.xml" value="0.179" />
       </map>
     </option>
   </component>
