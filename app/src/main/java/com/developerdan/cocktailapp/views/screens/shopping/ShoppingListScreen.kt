@@ -1,4 +1,4 @@
-package com.developerdan.cocktailapp.views.screens
+package com.developerdan.cocktailapp.views.screens.shopping
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
@@ -11,13 +11,13 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 
 @Composable
-fun FavouriteScreen(){
+fun ShoppingListScreen(){
     Box(
         modifier = Modifier.fillMaxSize(),
         contentAlignment = Alignment.Center
     ){
         Text(
-            text = "Favourite Screen",
+            text = "Shopping List Screen",
             color = MaterialTheme.colors.primary,
             fontSize = MaterialTheme.typography.h3.fontSize,
             fontWeight = FontWeight.Bold
@@ -26,6 +26,6 @@ fun FavouriteScreen(){
 }
 @Preview(showBackground = true)
 @Composable
-fun FavouriteScreenPreview() {
-    FavouriteScreen()
+fun ShoppingListScreenPreview() {
+    ShoppingListScreen()
 }
