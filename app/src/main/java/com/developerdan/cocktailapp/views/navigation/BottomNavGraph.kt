@@ -4,10 +4,10 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.developerdan.cocktailapp.views.screens.FavouriteScreen
-import com.developerdan.cocktailapp.views.screens.HomeScreen
-import com.developerdan.cocktailapp.views.screens.SearchScreen
-import com.developerdan.cocktailapp.views.screens.ShoppingListScreen
+import com.developerdan.cocktailapp.views.screens.favourite.FavouriteScreen
+import com.developerdan.cocktailapp.views.screens.home.HomeScreen
+import com.developerdan.cocktailapp.views.screens.search.SearchScreen
+import com.developerdan.cocktailapp.views.screens.shopping.ShoppingListScreen
 
 @Composable
 fun BottomNavGraph(
@@ -15,18 +15,18 @@ fun BottomNavGraph(
 ) {
     NavHost(
         navController = navController,
-        startDestination = BottomBarScreen.Home.route
+        startDestination = BottomNavigationItem.HomeScreen.route
     ) {
-        composable(route = BottomBarScreen.Home.route) {
+        composable(BottomNavigationItem.HomeScreen.route) {
             HomeScreen()
         }
-        composable(route = BottomBarScreen.Search.route) {
+        composable(BottomNavigationItem.SearchScreen.route) {
             SearchScreen()
         }
-        composable(route = BottomBarScreen.Favourite.route) {
+        composable(BottomNavigationItem.FavouriteScreen.route) {
             FavouriteScreen()
         }
-        composable(route = BottomBarScreen.ShoppingList.route) {
+        composable(BottomNavigationItem.ShoppingListScreen.route) {
             ShoppingListScreen()
         }
 

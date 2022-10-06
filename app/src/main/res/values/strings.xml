@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CocktailApp</string>
+    <string name="text_discover">Discover</string>
+    <string name="text_popular">Popular</string>
+    <string name="text_search">Search</string>
+    <string name="text_search_icon">Search icon</string>
+    <string name="unlike">Unlike_Cocktail</string>
+    <string name="like">Like_cocktail</string>
 </resources>
