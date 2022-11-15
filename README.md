@@ -2,6 +2,8 @@
 
 An android app built using Jetpack Compose that consumes CocktailDB API to display cocktail image, description, ingredients, and procedure to prepare the cocktail. The app also has functionality of adding ingredients to a shopping list.
 
+## [Figma Design](https://www.figma.com/file/yAMJUuyEIFU7bY6KKgIOe5/CocktailApp2?node-id=113%3A275&t=9LIUGYMYrwmxwGTG-1)
+
 # Tech Stack
 
 - [Kotlin](https://kotlinlang.org/) - A cross-platform, statically typed, general-purpose programming language with type inference and run on JVM.
