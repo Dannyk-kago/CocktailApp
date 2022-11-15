@@ -1,5 +1,4 @@
-# CocktailApp
-Cocktail App
+# CocktailApp [ Under Construction 🛠️ ]
 
 An android app built using Jetpack Compose that consumes CocktailDB API to display cocktail image, description, ingredients, and procedure to prepare the cocktail. The app also has functionality of adding ingredients to a shopping list.
 
