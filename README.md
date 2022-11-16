@@ -2,7 +2,14 @@
 
 An android app built using Jetpack Compose that consumes CocktailDB API to display cocktail image, description, ingredients, and procedure to prepare the cocktail. The app also has functionality of adding ingredients to a shopping list.
 
-## [Figma Design](https://www.figma.com/file/yAMJUuyEIFU7bY6KKgIOe5/CocktailApp2?node-id=113%3A275&t=9LIUGYMYrwmxwGTG-1)
+[Figma Design](https://www.figma.com/file/yAMJUuyEIFU7bY6KKgIOe5/CocktailApp2?node-id=113%3A275&t=9LIUGYMYrwmxwGTG-1)
+Home | Reels | Shop
+--- | --- | ---
+<img src="instaUI/home.jpg" width="280"/> | <img src="instaUI/reels2.jpg" width="280"/> | <img src="instaUI/shop.jpg" width="280"/>
+
+Search | Search | Profile
+--- | --- | ---
+<img src="instaUI/search.jpg" width="280"/> | <img src="instaUI/search2.jpg" width="280"/> | <img src="instaUI/profile.jpg" width="280"/>
 
 # Tech Stack
 
