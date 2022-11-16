@@ -2,14 +2,6 @@
 
 An android app built using Jetpack Compose that consumes CocktailDB API to display cocktail image, description, ingredients, and procedure to prepare the cocktail. The app also has functionality of adding ingredients to a shopping list.
 
-[Figma Design](https://www.figma.com/file/yAMJUuyEIFU7bY6KKgIOe5/CocktailApp2?node-id=113%3A275&t=9LIUGYMYrwmxwGTG-1)
-Home | Reels | Shop
---- | --- | ---
-<img src="![screen 5](https://user-images.githubusercontent.com/57729176/202118333-e9d9266e-e1ed-4700-b5c8-ad23f24bee70.png)" width="280"/> | <img src="instaUI/reels2.jpg" width="280"/> | <img src="instaUI/shop.jpg" width="280"/>
-
-Search | Search | Profile
---- | --- | ---
-<img src="instaUI/search.jpg" width="280"/> | <img src="instaUI/search2.jpg" width="280"/> | <img src="instaUI/profile.jpg" width="280"/>
 
 # Tech Stack
 
@@ -49,3 +41,15 @@ Layer | Components
 *1. Presentation Layer* | ✔ View ✔ ViewModels ✔ Relevant Mappers ✔ Relevant Models.
 *2. Domain Layer* | ✔ The repository ✔ The relevant domain models.
 *3. Data Layer* | ✔ Storing and fetching Preferences ✔ The repository implementation ✔ The relevant data models ✔ Relevant Mappers
+
+
+[Figma Design](https://www.figma.com/file/yAMJUuyEIFU7bY6KKgIOe5/CocktailApp2?node-id=113%3A275&t=9LIUGYMYrwmxwGTG-1)
+
+Splash | Home | Search | Cocktail
+--- | --- | --- | --- 
+<img src="https://user-images.githubusercontent.com/57729176/202124417-469154f8-4359-4277-b269-7ffc431c405b.png" width="280"/> | <img src="https://user-images.githubusercontent.com/57729176/202128520-b2ab1d63-a048-4729-b477-bc2acfb880e1.png" width="280"/> | <img src="https://user-images.githubusercontent.com/57729176/202131225-58c82cb5-1dfe-4d4f-bb23-fd80d2e3762c.png" width="280"/> | <img src="https://user-images.githubusercontent.com/57729176/202120658-aa8956f9-25d5-4f0a-b0f6-d530dbb34e84.png" width="280"/>
+
+Favourite | Let's Mix | Add Shopping | Shopping List
+--- | --- | --- | --- 
+<img src="https://user-images.githubusercontent.com/57729176/202133546-b6c919e5-96ea-4bb9-9b3e-87fd9b6210b6.png" width="280"/> | <img src="https://user-images.githubusercontent.com/57729176/202134695-3bc938f4-639a-4d74-a6e7-b6a9e333841c.png" width="280"/> | <img src="https://user-images.githubusercontent.com/57729176/202137477-1cdfe7a0-66c0-4bcf-a377-84bc175d0266.png" width="280"/> | <img src="https://user-images.githubusercontent.com/57729176/202136836-5a5f9fab-bd7f-4f9d-aa35-71f449a87a56.png" width="280"/>
+
