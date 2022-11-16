@@ -39,6 +39,6 @@ The architecture used is MVVM Architecture;
 
 Layer | Components
 --- | ---
-*1. Presentation Layer* | 1. View 2. ViewModels 3. Relevant Mappers 4. Relevant Models.
-*2. Domain Layer* | 1. The repository 2. The relevant domain models.
-*3. Data Layer* | 1. Storing and fetching Preferences. 2. The repository implementation 3. The relevant data models 4. Relevant Mappers
+*1. Presentation Layer* | ✔ View ✔ ViewModels ✔ Relevant Mappers ✔ Relevant Models.
+*2. Domain Layer* | ✔ The repository ✔ The relevant domain models.
+*3. Data Layer* | ✔ Storing and fetching Preferences ✔ The repository implementation ✔ The relevant data models ✔ Relevant Mappers
