@@ -5,7 +5,7 @@ An android app built using Jetpack Compose that consumes CocktailDB API to displ
 [Figma Design](https://www.figma.com/file/yAMJUuyEIFU7bY6KKgIOe5/CocktailApp2?node-id=113%3A275&t=9LIUGYMYrwmxwGTG-1)
 Home | Reels | Shop
 --- | --- | ---
-<img src="instaUI/home.jpg" width="280"/> | <img src="instaUI/reels2.jpg" width="280"/> | <img src="instaUI/shop.jpg" width="280"/>
+<img src="![screen 5](https://user-images.githubusercontent.com/57729176/202118333-e9d9266e-e1ed-4700-b5c8-ad23f24bee70.png)" width="280"/> | <img src="instaUI/reels2.jpg" width="280"/> | <img src="instaUI/shop.jpg" width="280"/>
 
 Search | Search | Profile
 --- | --- | ---
