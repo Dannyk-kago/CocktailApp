@@ -36,28 +36,10 @@ An android app built using Jetpack Compose that consumes CocktailDB API to displ
 
 ## Architecture
 
-The architecture to be used is MVVM Architecture;
+The architecture used is MVVM Architecture;
 
-## Data
-
-This layer contains;
-
-1. Storing and fetching Preferences.
-2. The repository implementation
-3. The relevant data models
-4. Relevant Mappers
-## Domain
-
-This layer will contain;
-
-1. The repository
-2. The relevant domain models.
-
-## Presentation
-
-This layer will contain;
-
-1. View
-2. ViewModels
-3. Relevant Mappers
-4. Relevant Models.
+Layer | Components
+--- | ---
+*1. Presentation Layer* | 1. View 2. ViewModels 3. Relevant Mappers 4. Relevant Models.
+*2. Domain Layer* | 1. The repository 2. The relevant domain models.
+*3. Data Layer* | 1. Storing and fetching Preferences. 2. The repository implementation 3. The relevant data models 4. Relevant Mappers
