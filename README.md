@@ -35,7 +35,6 @@ An android app built using Jetpack Compose that consumes CocktailDB API to displ
 
 
 ## Architecture
-
 The architecture used is MVVM Architecture;
 
 Layer | Components
